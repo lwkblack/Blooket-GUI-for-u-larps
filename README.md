@@ -1,4 +1,7 @@
-# paste in the blooket console by right clicking then inspect the console or ctrl+shift+j
+# paste in the blooket console by 
+# right clicking then inspect then console 
+# or
+# ctrl+shift+j
 
 
 
